@@ -1,0 +1,445 @@
+Customer_ID,Gender,Age,Married,City,Number_of_Referrals,Tenure_in_Months,Offer,Phone_Service,Multiple_Lines,Internet_Service,Internet_Type,Online_Security,Online_Backup,Device_Protection_Plan,Premium_Tech_Support,Streaming_TV,Streaming_Movies,Streaming_Music,Unlimited_Data,Contract,Paperless_Billing,Payment_Method,Monthly_Charge,Total_Charges,Total_Refunds,Total_Extra_Data_Charges,Total_Long_Distance_Charges,Total_Revenue,Customer_Status,Churn_Category,Churn_Reason,Customer_Status_Predicted
+0021-IKXGC,Female,72,No,San Marcos,0,1,Offer E,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,72.1,72.1,0.0,0,7.77,79.87,Joined,Others,Others,1
+0030-FNXPP,Female,22,No,Keeler,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,57.2,0.0,0,9.36,66.56,Joined,Others,Others,1
+0082-LDZUE,Male,54,No,Calistoga,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.3,44.3,0.0,0,42.95,87.25,Joined,Others,Others,1
+0139-IVFJG,Female,19,Yes,Temecula,10,2,,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,90.35,190.5,0.0,0,9.3,199.8,Joined,Others,Others,1
+0178-CIIKR,Female,60,No,Crows Landing,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,,0.0,0,8.07,66.07,Joined,Others,Others,1
+0188-GWFLE,Male,33,No,Redwood City,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,33.7,0.0,0,3.62,37.32,Joined,Others,Others,1
+0224-RLWWD,Female,73,No,Calexico,0,2,Offer E,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,One Year,Yes,Bank Withdrawal,44.3,89.3,0.0,0,47.82,137.12,Joined,Others,Others,1
+0225-ZORZP,Male,46,No,Groveland,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,84.3,235.05,0.0,0,41.16,276.21,Joined,Others,Others,1
+0247-SLUJI,Male,37,Yes,Duarte,2,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.7,19.7,0.0,0,34.28,53.98,Joined,Others,Others,1
+0248-IPDFW,Female,19,No,Lake Elsinore,0,1,,Yes,Yes,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.1,50.1,0.0,0,29.13,79.23,Joined,Others,Others,1
+0258-NOKBL,Male,22,No,Fortuna,0,3,,Yes,No,Yes,Fiber Optic,No,Yes,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,90.4,268.45,0.0,0,94.44,362.89,Joined,Others,Others,1
+0319-QZTCO,Female,25,Yes,Santa Rosa,9,3,Offer E,Yes,No,Yes,DSL,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,58.7,168.6,0.0,0,34.41,203.01,Joined,Others,Others,1
+5032-MIYKT,Female,19,No,Weott,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,70.7,70.7,0.0,0,38.81,109.51,Joined,Others,Others,1
+5043-TRZWM,Female,32,No,Los Angeles,0,1,,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,75.55,75.55,0.0,0,7.11,82.66,Joined,Others,Others,1
+5066-GFJMM,Female,55,Yes,Eureka,4,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.9,45.75,0.0,0,124.08,169.83,Joined,Others,Others,1
+5067-DGXLL,Male,35,No,Alleghany,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,36.8,0.0,0,31.66,68.46,Joined,Others,Others,1
+5088-QZLRL,Male,50,No,Corona,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.65,20.65,0.0,0,1.47,22.12,Joined,Others,Others,1
+5091-HFAZW,Female,36,No,Santa Fe Springs,0,2,,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,91.15,168.5,0.0,10,93.56,272.06,Joined,Others,Others,1
+5119-NZPTV,Male,70,Yes,Sacramento,9,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.1,141.65,0.0,0,69.98,211.63,Joined,Others,Others,1
+5122-CYFXA,Female,53,No,Beverly Hills,0,3,Offer E,Yes,No,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,75.3,244.1,0.0,0,116.97,361.07,Joined,Others,Others,1
+5133-POWUA,Male,34,No,Somerset,0,1,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.8,45.8,0.0,0,13.62,59.42,Joined,Others,Others,1
+5156-UMKOW,Female,44,No,San Simeon,0,3,,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,29.65,90.05,0.0,0,,90.05,Joined,Others,Others,1
+5173-WXOQV,Male,38,Yes,Dos Palos,2,2,Offer E,Yes,No,Yes,DSL,No,Yes,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Credit Card,64.2,143.65,0.0,30,8.82,182.47,Joined,Others,Others,1
+5173-ZXXXL,Male,47,No,Orange,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.95,47.7,0.0,0,62.9,110.6,Joined,Others,Others,1
+5207-PLSTK,Male,32,Yes,La Habra,10,1,,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,48.75,48.75,0.0,0,26.26,75.01,Joined,Others,Others,1
+0366-NQSHS,Male,42,No,Colusa,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.35,46.35,0.0,0,88.68,135.03,Joined,Others,Others,1
+0374-AACSZ,Female,63,No,Lancaster,0,1,Offer E,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,50.15,50.15,0.0,50,38.33,138.48,Joined,Others,Others,1
+0374-IOEGQ,Female,62,No,Gonzales,0,3,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.6,122.7,0.0,0,46.77,169.47,Joined,Others,Others,1
+0396-HUJBP,Female,34,No,Gardena,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.3,44.4,0.0,0,99.82,144.22,Joined,Others,Others,1
+0411-EZJZE,Female,62,No,Stockton,0,3,,Yes,Yes,Yes,DSL,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,60.25,170.5,0.0,70,60.3,300.8,Joined,Others,Others,1
+0432-CAJZV,Male,47,No,Temecula,0,3,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,90.7,237.65,0.0,0,16.17,253.82,Joined,Others,Others,1
+0455-XFASS,Female,61,Yes,Campbell,3,3,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.55,200.2,,0,5.01,171.41,Joined,Others,Others,1
+0463-WZZKO,Male,23,No,Van Nuys,0,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.75,67.1,0.0,0,49.17,116.27,Joined,Others,Others,1
+0508-OOLTO,Female,33,Yes,Fort Irwin,5,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,71.65,135.75,0.0,0,58.06,193.81,Joined,Others,Others,1
+0541-FITGH,Female,59,Yes,Hornitos,6,2,Offer E,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Mailed Check,62.15,113.1,0.0,0,96.78,209.88,Joined,Others,Others,1
+5351-QESIO,Male,64,No,San Diego,0,1,Offer E,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,24.2,24.2,0.0,0,,24.2,Joined,Others,Others,1
+5356-CSVSQ,Female,20,No,La Verne,0,3,,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,64.6,174.2,0.0,0,122.97,297.17,Joined,Others,Others,1
+5365-LLFYV,Female,43,No,Penryn,0,2,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.85,105.6,0.0,0,10.94,116.54,Joined,Others,Others,1
+5442-BHQNG,Female,32,No,Brooks,0,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.35,139.25,0.0,0,89.54,228.79,Joined,Others,Others,1
+5501-TVMGM,Male,21,No,Canby,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,55.25,55.25,0.0,60,39.19,154.44,Joined,Others,Others,1
+5522-JBWMO,Male,62,No,Blythe,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,,0.0,0,15.66,59.66,Joined,Others,Others,1
+5542-TBBWB,Male,46,No,Lakeport,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.9,69.9,0.0,10,9.36,89.26,Joined,Others,Others,1
+5562-BETPV,Male,21,Yes,San Andreas,1,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,19.65,19.65,0.0,0,23.41,43.06,Joined,Others,Others,1
+5562-YJQGT,Female,57,No,Encino,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,35.1,0.0,0,4.92,40.02,Joined,Others,Others,1
+0623-GDISB,Female,63,No,San Clemente,0,1,,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,48.45,48.45,0.0,0,16.42,64.87,Joined,Others,Others,1
+0641-EVBOJ,Male,61,No,Coarsegold,0,3,,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,82.3,214.4,0.0,20,134.91,369.31,Joined,Others,Others,1
+0670-KDOMA,Female,42,No,Chowchilla,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0.0,0,28.18,48.43,Joined,Others,Others,1
+0673-IGUQO,Male,26,No,Phelan,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.45,20.45,0.0,0,30.09,50.54,Joined,Others,Others,1
+0674-EYYZV,Female,41,No,Los Angeles,0,1,,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.65,54.65,0.0,0,36.33,90.98,Joined,Others,Others,1
+0734-OXWBT,Male,44,No,Covina,0,3,Offer E,Yes,No,Yes,Cable,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,70.7,225.65,0.0,0,75.12,300.77,Joined,Others,Others,1
+0816-TSPHQ,Male,35,No,Kettleman City,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,44.2,0.0,0,55.34,99.54,Joined,Others,Others,1
+0817-HSUSE,Male,26,No,Altadena,0,1,,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,75.5,75.5,0.0,0,5.63,81.13,Joined,Others,Others,1
+0871-OPBXW,Female,57,No,Escondido,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.05,39.25,0.0,0,13.7,52.95,Joined,Others,Others,1
+5600-KTXFM,Male,48,Yes,Ventura,6,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,69.95,143.9,0.0,0,58.2,202.1,Joined,Others,Others,1
+5630-AHZIL,Female,51,No,El Segundo,0,3,Offer E,Yes,No,Yes,DSL,Yes,No,No,Yes,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,64.5,177.4,0.0,60,118.65,356.05,Joined,Others,Others,1
+5701-SVCWR,Female,45,No,Laguna Niguel,0,1,Offer E,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,,0.0,0,32.95,56.95,Joined,Others,Others,1
+5760-IFJOZ,Male,57,No,Richgrove,0,3,,Yes,Yes,Yes,Fiber Optic,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,107.95,313.6,0.0,0,142.5,456.1,Joined,Others,Others,1
+5808-TOTXO,Female,37,No,Oakland,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,20.55,57.4,0.0,0,33.81,91.21,Joined,Others,Others,1
+5857-XRECV,Female,44,No,Manteca,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Bank Withdrawal,20.5,38.25,0.0,0,62.02,100.27,Joined,Others,Others,1
+5858-EAFCZ,Male,45,No,Rialto,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.45,44.45,0.0,0,23.34,67.79,Joined,Others,Others,1
+5868-YTYKS,Male,21,No,Davenport,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0.0,0,47.25,67.5,Joined,Others,Others,1
+0927-CNGRH,Male,42,No,Alta,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,30.63,50.18,Joined,Others,Others,1
+0929-HYQEW,Male,20,No,Oakland,0,3,,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.15,160.85,0.0,0,52.26,213.11,Joined,Others,Others,1
+0970-QXPXW,Female,28,No,Monrovia,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,19.65,0.0,0,42.42,62.07,Joined,Others,Others,1
+0975-VOOVL,Female,34,No,Agoura Hills,0,3,,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.2,98.5,0.0,0,,98.5,Joined,Others,Others,1
+0988-JRWWP,Female,50,No,Wilseyville,0,3,,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,54.2,140.4,0.0,0,124.14,264.54,Joined,Others,Others,1
+1015-OWJKI,Male,46,No,Lawndale,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.05,19.05,0.0,0,5.02,24.07,Joined,Others,Others,1
+1051-GEJLJ,Female,19,No,San Gregorio,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.5,27.55,0.0,0,54.34,81.89,Joined,Others,Others,1
+1064-FBXNK,Male,55,Yes,Sacramento,5,1,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,19.85,19.85,0.0,0,47.46,67.31,Joined,Others,Others,1
+1078-TDCRN,Female,75,Yes,Agoura Hills,7,3,,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,30.75,82.85,0.0,0,,82.85,Joined,Others,Others,1
+1098-TDVUQ,Female,34,No,Spring Valley,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.25,19.25,0.0,0,9.44,28.69,Joined,Others,Others,1
+1099-GODLO,Female,62,Yes,Berkeley,9,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.35,20.35,0.0,0,30.09,50.44,Joined,Others,Others,1
+1135-LMECX,Female,47,No,Moreno Valley,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,19.85,0.0,0,16.47,36.32,Joined,Others,Others,1
+1156-ZFYDO,Female,57,No,Glendale,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,37.62,57.37,Joined,Others,Others,1
+1179-INLAT,Male,33,No,Santa Clara,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,Yes,Credit Card,19.45,69.25,0.0,0,8.34,77.59,Joined,Others,Others,1
+1194-SPVSP,Male,20,No,Soquel,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.65,19.65,0.0,0,27.88,47.53,Joined,Others,Others,1
+1212-GLHMD,Male,54,No,San Joaquin,0,3,Offer E,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,86.05,244.85,0.0,0,54.78,299.63,Joined,Others,Others,1
+5906-BFOZT,Male,54,No,Loleta,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.5,19.5,0.0,0,8.02,27.52,Joined,Others,Others,1
+5916-QEWPT,Female,61,Yes,Valley Village,1,2,Offer E,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Credit Card,,147.8,0.0,0,54.82,202.62,Joined,Others,Others,1
+5919-VCZYM,Male,19,No,Santa Ana,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,42.7,0.0,0,80.56,123.26,Joined,Others,Others,1
+5948-UJZLF,Male,22,No,Los Angeles,0,2,,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.25,,0.0,0,81.5,178.5,Joined,Others,Others,1
+5960-MVTUK,Male,58,No,Grenada,0,3,Offer E,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.75,96.85,0.0,0,,96.85,Joined,Others,Others,1
+5968-VXZLG,Male,45,No,Calabasas,0,2,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,46.6,87.9,0.0,0,3.74,91.64,Joined,Others,Others,1
+5996-DAOQL,Male,28,No,Penngrove,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.45,20.45,0.0,0,42.17,62.62,Joined,Others,Others,1
+5999-LCXAO,Female,42,No,Orange,0,1,,No,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.9,29.9,0.0,0,,29.9,Joined,Others,Others,1
+6022-KOUQO,Female,51,Yes,Eagleville,4,2,Offer E,No,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,29.05,44.75,0.0,0,,44.75,Joined,Others,Others,1
+6048-QBXKL,Female,68,No,Madison,0,2,Offer E,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,56.55,118.25,0.0,0,63.48,181.73,Joined,Others,Others,1
+6077-BDPXA,Female,56,No,Merced,0,3,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15,194.2,0.0,0,16.89,211.09,Joined,Others,Others,1
+6124-ACRHJ,Female,59,No,San Mateo,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,19.75,0.0,0,41.28,61.03,Joined,Others,Others,1
+6127-IYJOZ,Male,71,No,Studio City,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.85,45.85,0.0,0,40.38,86.23,Joined,Others,Others,1
+6145-NNPNO,Female,45,No,Santa Rosa,0,1,Offer E,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.15,44.15,0.0,0,9.82,53.97,Joined,Others,Others,1
+6158-HDPXZ,Male,31,No,San Diego,0,1,,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,25.35,25.35,0.0,0,,25.35,Joined,Others,Others,1
+1230-QAJDW,Male,32,No,Somes Bar,0,3,,Yes,Yes,Yes,Cable,No,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,65.25,209.9,0.0,0,128.04,337.94,Joined,Others,Others,1
+1393-IMKZG,Female,50,No,Fullerton,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,95.85,95.85,0.0,0,2.7,98.55,Joined,Others,Others,1
+1406-PUQVY,Male,29,No,Madison,0,1,Offer E,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.9,49.9,0.0,0,6.35,56.25,Joined,Others,Others,1
+1423-BMPBQ,Female,62,Yes,Anaheim,1,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,,0.0,0,28.28,47.28,Joined,Others,Others,1
+1452-VOQCH,Male,61,No,Hinkley,0,1,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,75.1,75.1,0.0,0,4.53,79.63,Joined,Others,Others,1
+1453-RZFON,Female,39,No,Cantua Creek,0,1,Offer E,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.9,49.9,0.0,0,,58.9,Joined,Others,Others,1
+1465-WCZVT,Female,44,Yes,Badger,1,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,60.65,0.0,0,91.02,151.67,Joined,Others,Others,1
+1471-GIQKQ,Female,37,No,Niland,0,1,,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.95,49.95,0.0,0,44.98,94.93,Joined,Others,Others,1
+1478-VPOAD,Female,39,No,Calpine,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.8,43.8,0.0,0,37.5,81.3,Joined,Others,Others,1
+6184-DYUOB,Female,28,Yes,Palermo,5,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.6,55.25,0.0,0,125.7,180.95,Joined,Others,Others,1
+6185-TASNN,Male,71,No,Chula Vista,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,46.3,46.3,0.0,0,11.51,57.81,Joined,Others,Others,1
+6260-ONULR,Male,55,No,Middletown,0,1,,Yes,No,Yes,Cable,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,62.8,62.8,0.0,0,42.19,104.99,Joined,Others,Others,1
+6286-SUUWT,Male,44,No,Arnold,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,19.95,0.0,0,27.08,47.03,Joined,Others,Others,1
+6351-SCJKT,Male,32,No,Santa Cruz,0,3,,No,No,Yes,Cable,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,41.35,107.25,0.0,0,,107.25,Joined,Others,Others,1
+6357-JJPQT,Female,48,No,San Gabriel,0,3,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,80.5,232.35,0.0,0,80.58,312.93,Joined,Others,Others,1
+6380-ARCEH,Male,19,No,Inglewood,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.2,20.2,0.0,0,41.1,61.3,Joined,Others,Others,1
+6394-HHHZM,Male,27,No,Little River,0,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.7,57.5,0.0,0,115.23,172.73,Joined,Others,Others,1
+1536-HBSWP,Female,33,No,Terra Bella,0,1,,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.9,49.9,0.0,0,14.93,64.83,Joined,Others,Others,1
+1622-HSHSF,Female,44,No,Biggs,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.55,19.55,0.0,0,10.2,29.75,Joined,Others,Others,1
+1628-BIZYP,Male,60,No,Brentwood,0,1,,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,,0.0,0,15.2,100.2,Joined,Others,Others,1
+1640-PLFMP,Female,20,No,Los Angeles,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.25,70.25,0.0,10,10.05,90.3,Joined,Others,Others,1
+1663-MHLHE,Male,33,No,Duarte,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.2,19.2,0.0,0,35.88,55.08,Joined,Others,Others,1
+1724-IQWNM,Male,37,No,Burbank,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.3,19.3,0.0,0,8.66,27.96,Joined,Others,Others,1
+1728-BQDMA,Female,22,No,Penryn,0,2,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.45,82.7,0.0,0,37.4,120.1,Joined,Others,Others,1
+1746-TGTWV,Male,32,Yes,Whittier,1,1,Offer E,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,75.35,75.35,0.0,0,38.89,114.24,Joined,Others,Others,1
+1755-RMCXH,Male,37,Yes,San Dimas,5,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,40.25,0.0,0,14.54,54.79,Joined,Others,Others,1
+1763-WQFUK,Male,45,No,Riverside,0,3,,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,50.5,147.75,0.0,0,79.14,226.89,Joined,Others,Others,1
+1777-JYQPJ,Male,19,No,Colfax,0,2,Offer E,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,24.3,38.45,0.0,0,,38.45,Joined,Others,Others,1
+1791-PQHBB,Female,28,No,El Dorado,0,2,Offer E,Yes,No,Yes,Cable,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,61.2,125.95,0.0,0,64.12,190.07,Joined,Others,Others,1
+1796-JANOW,Female,33,No,Fiddletown,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,38.15,0.0,0,69.14,107.29,Joined,Others,Others,1
+1816-FLZDK,Male,34,No,Fawnskin,0,1,,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,29.15,29.15,0.0,0,,29.15,Joined,Others,Others,1
+1845-ZLLIG,Male,45,No,Woodbridge,0,1,Offer E,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.15,50.15,0.0,0,20.3,70.45,Joined,Others,Others,1
+6469-MRVET,Male,32,Yes,Van Nuys,8,1,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,Yes,Bank Withdrawal,,20.2,0.0,0,44.69,64.89,Joined,Others,Others,1
+6519-CFDBX,Female,31,No,Torrance,0,2,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,45.4,80.95,0.0,0,21.62,102.57,Joined,Others,Others,1
+6542-LWGXJ,Male,46,Yes,Pixley,1,3,Offer E,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,,78.25,0.0,0,,78.25,Joined,Others,Others,1
+6569-KTMDU,Female,28,No,Sacramento,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.1,19.1,0.0,0,5.02,24.12,Joined,Others,Others,1
+6579-JPICP,Male,31,No,Riverside,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.4,20.4,0.0,0,17.81,38.21,Joined,Others,Others,1
+6582-OIVSP,Female,25,No,Glendale,0,1,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.3,45.3,0.0,0,47.36,92.66,Joined,Others,Others,1
+6629-LADHQ,Female,42,No,Santa Barbara,0,2,Offer E,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.95,123.05,0.0,0,73.92,196.97,Joined,Others,Others,1
+6645-MXQJT,Male,40,Yes,Copperopolis,10,2,Offer E,Yes,No,Yes,Fiber Optic,Yes,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,97.1,184.15,0.0,0,78.7,262.85,Joined,Others,Others,1
+6650-VJONK,Male,54,No,Carson,0,1,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,43.85,43.85,0.0,10,15.9,69.75,Joined,Others,Others,1
+6654-QGBZZ,Female,21,No,Nevada City,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.9,19.9,0.0,0,1.5,21.4,Joined,Others,Others,1
+6656-JWRQX,Female,60,No,San Diego,0,1,,No,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,30.55,30.55,0.0,40,,70.55,Joined,Others,Others,1
+1866-OBPNR,Male,28,Yes,Sacramento,5,1,,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,74.6,74.6,0.0,0,42.99,117.59,Joined,Others,Others,1
+1895-QTKDO,Female,38,No,San Jacinto,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,43.95,43.95,0.0,0,45.59,89.54,Joined,Others,Others,1
+1905-OEILC,Female,42,No,Pebble Beach,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.5,19.5,0.0,0,20.11,39.61,Joined,Others,Others,1
+1928-BXYIV,Male,47,No,Placerville,0,1,Offer E,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,61.15,61.15,0.0,0,17.07,78.22,Joined,Others,Others,1
+1941-HOSAM,Male,20,Yes,San Diego,1,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,90.1,90.1,0.0,0,24.33,114.43,Joined,Others,Others,1
+1942-OQFRW,Male,62,No,Forest Knolls,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,,0.0,0,13.4,57.4,Joined,Others,Others,1
+2018-QKYGT,Male,19,Yes,San Gabriel,1,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,81.05,81.05,0.0,0,36.32,117.37,Joined,Others,Others,1
+2043-WVTQJ,Male,61,Yes,Westminster,10,1,,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Credit Card,55.7,55.7,0.0,0,17.68,73.38,Joined,Others,Others,1
+2049-BAFNW,Female,60,No,Vallejo,0,1,Offer E,No,No,Yes,DSL,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,35.9,35.9,0.0,0,,35.9,Joined,Others,Others,1
+2080-GKCWQ,Male,54,No,San Pablo,0,2,,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.95,151.75,0.0,0,7.52,159.27,Joined,Others,Others,1
+2080-SRCDE,Female,21,No,Walnut,0,1,Offer E,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,25.4,25.4,0.0,0,32.73,58.13,Joined,Others,Others,1
+2081-KJSQF,Male,25,No,Isleton,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.25,20.25,0.0,0,42.96,63.21,Joined,Others,Others,1
+2081-VEYEH,Male,42,No,Compton,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,107.95,318.6,0.0,0,37.98,356.58,Joined,Others,Others,1
+2103-ZRXFN,Male,19,No,La Quinta,0,1,,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,50.75,50.75,0.0,0,24.66,75.41,Joined,Others,Others,1
+2111-DWYHN,Male,31,No,Aptos,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,21.1,21.1,0.0,0,18.81,39.91,Joined,Others,Others,1
+6728-WYQBC,Male,52,No,Escondido,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.95,20.95,0.0,0,2.29,23.24,Joined,Others,Others,1
+6734-CKRSM,Female,38,No,Stirling City,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,,63.6,0.0,0,120.6,184.2,Joined,Others,Others,1
+6778-YSNIH,Female,63,No,Riverside,0,2,,Yes,No,Yes,Cable,No,Yes,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,114.15,0.0,0,54.04,168.19,Joined,Others,Others,1
+6817-WTYHE,Male,56,No,Happy Camp,0,2,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.9,111.05,0.0,0,10.16,121.21,Joined,Others,Others,1
+6844-DZKRF,Male,61,No,Irvine,0,2,,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Credit Card,50.2,109.25,0.0,10,12.68,131.93,Joined,Others,Others,1
+6856-RAURS,Female,50,No,Rio Oso,0,2,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,74.9,136.05,0.0,0,82.16,218.21,Joined,Others,Others,1
+6870-ECSHE,Female,23,No,Sun City,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.45,34.8,0.0,0,,126.8,Joined,Others,Others,1
+6888-SBYAI,Male,56,No,San Ramon,0,1,Offer E,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.7,50.7,0.0,0,38.05,88.75,Joined,Others,Others,1
+6907-FLBER,Male,62,No,Burbank,0,1,Offer E,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,54.3,54.3,0.0,10,34.02,98.32,Joined,Others,Others,1
+6917-IAYHD,Male,44,No,La Honda,0,1,Offer E,No,No,Yes,Cable,No,Yes,No,Yes,No,No,No,No,Month-to-Month,No,Credit Card,33.6,33.6,0.0,50,,83.6,Joined,Others,Others,1
+6923-JHPMP,Female,35,No,Templeton,0,2,,Yes,No,Yes,Fiber Optic,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.45,137.1,0.0,0,70.82,207.92,Joined,Others,Others,1
+6942-LBFDP,Female,30,No,Bakersfield,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.55,33.6,0.0,0,33.4,67.0,Joined,Others,Others,1
+2181-UAESM,Male,30,No,Angelus Oaks,0,2,,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,53.45,119.5,0.0,0,25.18,144.68,Joined,Others,Others,1
+2209-XADXF,Female,40,No,Willow Creek,0,1,Offer E,No,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0.0,10,,35.25,Joined,Others,Others,1
+2220-IAHLS,Female,49,No,Modesto,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.4,19.4,0.0,0,2.85,22.25,Joined,Others,Others,1
+2239-CFOUJ,Male,27,Yes,Trinidad,3,1,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.4,20.4,0.0,0,27.5,47.9,Joined,Others,Others,1
+2254-DLXRI,Female,33,No,Burbank,0,1,Offer E,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,79.15,79.15,0.0,60,,157.15,Joined,Others,Others,1
+2262-SLNVK,Female,53,No,Birds Landing,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,70.1,70.1,0.0,0,1.15,71.25,Joined,Others,Others,1
+2273-QCKXA,Male,39,No,Culver City,0,1,,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,49.05,49.05,0.0,0,25.77,74.82,Joined,Others,Others,1
+2275-RBYQS,Female,38,No,Sun City,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.4,45.4,0.0,0,49.33,94.73,Joined,Others,Others,1
+2303-PJYHN,Female,27,Yes,Los Angeles,8,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.85,,0.0,0,72.1,124.1,Joined,Others,Others,1
+2308-STERM,Female,58,No,Armona,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.4,61.05,0.0,0,13.3,74.35,Joined,Others,Others,1
+2325-NBPZG,Female,20,No,Novato,0,3,,Yes,No,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.55,233.65,0.0,0,30.3,263.95,Joined,Others,Others,1
+2342-CKIAO,Female,39,No,Eagleville,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,41.2,0.0,0,25.36,66.56,Joined,Others,Others,1
+2369-FEVNO,Male,36,No,Long Beach,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.9,19.9,0.0,0,7.76,27.66,Joined,Others,Others,1
+2393-DIVAI,Female,40,No,Brea,0,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,61.7,0.0,0,46.11,107.81,Joined,Others,Others,1
+2410-CIYFZ,Male,42,No,Woodland,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.4,42.9,0.0,0,99.06,141.96,Joined,Others,Others,1
+2424-WVHPL,Male,79,No,Redondo Beach,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,One Year,No,Bank Withdrawal,74.7,74.7,0.0,0,27.65,102.35,Joined,Others,Others,1
+7017-VFULY,Female,38,Yes,Chatsworth,9,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.1,43.15,0.0,0,65.72,108.87,Joined,Others,Others,1
+7055-HNEOJ,Male,34,Yes,El Dorado Hills,2,3,Offer E,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,55.8,154.55,0.0,0,12.57,167.12,Joined,Others,Others,1
+7096-UCLNH,Male,30,No,Fontana,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,11.1,31.15,Joined,Others,Others,1
+7159-FVYPK,Female,23,Yes,Beaumont,3,3,,Yes,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.15,,0.0,0,72.84,307.84,Joined,Others,Others,1
+7243-LCGGZ,Female,28,No,Alhambra,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.9,20.9,0.0,0,10.21,31.11,Joined,Others,Others,1
+7245-NIIWQ,Female,53,No,Fellows,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.85,199.85,0.0,0,104.28,304.13,Joined,Others,Others,1
+7246-ZGQDF,Female,63,No,Victorville,0,1,,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,54.5,54.5,0.0,0,33.21,87.71,Joined,Others,Others,1
+7252-NTGSS,Female,43,No,Redondo Beach,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.15,45.15,0.0,0,42.34,87.49,Joined,Others,Others,1
+7291-CDTMJ,Male,40,No,Laguna Beach,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.65,19.65,0.0,0,13.85,33.5,Joined,Others,Others,1
+7298-IZWLY,Female,43,No,Gardena,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.4,19.4,0.0,0,23.97,43.37,Joined,Others,Others,1
+7302-ZHMHP,Female,35,No,Coronado,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.15,19.15,0.0,0,22.37,41.52,Joined,Others,Others,1
+7310-EGVHZ,Male,35,No,Los Angeles,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.2,20.2,0.0,0,24.48,44.68,Joined,Others,Others,1
+7312-XSBAT,Male,47,No,Bakersfield,0,1,Offer E,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.75,49.75,0.0,0,41.79,91.54,Joined,Others,Others,1
+2465-BLLEU,Male,31,No,Salinas,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0.0,0,10.22,29.97,Joined,Others,Others,1
+2468-SJFLM,Male,37,No,Biggs,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.3,74.3,0.0,0,39.55,113.85,Joined,Others,Others,1
+2480-JZOSN,Female,64,Yes,Woody,8,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.65,20.65,0.0,0,35.24,55.89,Joined,Others,Others,1
+2538-OIMXF,Female,29,No,Cathedral City,0,1,Offer E,No,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.7,24.7,0.0,70,,94.7,Joined,Others,Others,1
+2542-HYGIQ,Female,58,No,Palo Alto,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.95,19.95,0.0,0,38.84,58.79,Joined,Others,Others,1
+2545-EBUPK,Female,70,No,Los Angeles,0,2,Offer E,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,Yes,No,Yes,Two Year,Yes,Bank Withdrawal,84.05,186.05,0.0,0,43.8,229.85,Joined,Others,Others,1
+2576-HXMPA,Female,30,No,Mckinleyville,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,8.23,27.78,Joined,Others,Others,1
+2585-KTFRE,Male,61,No,Escondido,0,1,,Yes,No,Yes,Cable,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,70.45,70.45,0.0,0,20.1,90.55,Joined,Others,Others,1
+2592-YKDIF,Female,47,No,North Highlands,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,20.35,0.0,0,44.09,64.44,Joined,Others,Others,1
+2607-FBDFF,Male,32,No,Tuolumne,0,1,,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,,,0.0,0,49.19,98.19,Joined,Others,Others,1
+2621-UDNLU,Female,35,Yes,San Francisco,9,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.85,,0.0,0,35.31,107.31,Joined,Others,Others,1
+2637-FKFSY,Female,61,Yes,Wasco,2,3,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,46.1,130.15,0.0,0,7.98,138.13,Joined,Others,Others,1
+2640-LYMOV,Male,59,No,Anaheim,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.65,38.8,0.0,0,19.22,58.02,Joined,Others,Others,1
+2654-VBVPB,Female,22,No,Newport Beach,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.9,19.9,0.0,0,11.83,31.73,Joined,Others,Others,1
+2668-TZSPS,Male,32,No,Santa Rosa,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.45,20.45,0.0,0,39.61,60.06,Joined,Others,Others,1
+2672-OJQZP,Female,35,No,Stockton,0,1,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,44.75,44.75,0.0,0,40.87,85.62,Joined,Others,Others,1
+2676-ISHSF,Male,22,No,Anderson,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,29.19,49.49,Joined,Others,Others,1
+2692-PFYTJ,Female,23,No,Hercules,0,1,,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,25.75,0.0,0,15.22,40.97,Joined,Others,Others,1
+2700-LUEVA,Male,49,No,Oakland,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,20.75,0.0,0,36.28,57.03,Joined,Others,Others,1
+2712-SYWAY,Female,30,No,Creston,0,1,Offer E,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,25.7,25.7,0.0,0,43.84,69.54,Joined,Others,Others,1
+7321-VGNKU,Female,45,Yes,Paskenta,1,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.35,120.25,0.0,20,15.4,155.65,Joined,Others,Others,1
+7343-EOBEU,Male,19,Yes,Laguna Niguel,9,3,Offer E,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,23.6,89.05,0.0,0,42.3,131.35,Joined,Others,Others,1
+7365-BVCJH,Male,40,No,Trinity Center,0,1,Offer E,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,24.4,24.4,0.0,0,,24.4,Joined,Others,Others,1
+7379-FNIUJ,Male,49,No,Olympic Valley,0,2,Offer E,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,Yes,Yes,No,Month-to-Month,No,Bank Withdrawal,100.2,198.5,0.0,10,45.12,253.62,Joined,Others,Others,1
+7389-KBFIT,Female,31,Yes,Big Pine,6,2,Offer E,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,30.25,63.75,0.0,0,,63.75,Joined,Others,Others,1
+7394-LWLYN,Female,57,No,Oakland,0,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.15,123.8,0.0,0,67.5,191.3,Joined,Others,Others,1
+7398-SKNQZ,Female,51,Yes,Downey,5,3,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,94.9,273.2,0.0,0,8.91,282.11,Joined,Others,Others,1
+7404-JLKQG,Female,21,No,Glennville,0,3,,Yes,No,Yes,Cable,No,No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,57.55,161.45,0.0,0,144.9,306.35,Joined,Others,Others,1
+7439-DKZTW,Male,49,No,Paicines,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,80.55,80.55,0.0,60,5.93,146.48,Joined,Others,Others,1
+7442-YGZFK,Male,31,No,Campo,0,1,,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.8,49.8,0.0,0,3.97,53.77,Joined,Others,Others,1
+7465-ZZRVX,Male,63,No,Ceres,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,70.35,70.35,0.0,10,14.42,94.77,Joined,Others,Others,1
+7501-VTYLJ,Female,21,No,Sacramento,0,2,,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.55,106.2,0.0,0,37.22,143.42,Joined,Others,Others,1
+7521-YXVZY,Male,38,No,Placerville,0,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,19.95,58.3,0.0,0,15.45,73.75,Joined,Others,Others,1
+7526-IVLYU,Male,46,No,San Francisco,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.65,68.35,0.0,0,106.77,175.12,Joined,Others,Others,1
+7537-RBWEA,Female,19,No,Petrolia,0,1,,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,25.15,25.15,0.0,0,,25.15,Joined,Others,Others,1
+7577-SWIFR,Male,49,No,Glendale,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.25,89.25,0.0,0,16.64,105.89,Joined,Others,Others,1
+7590-VHVEG,Female,36,Yes,Los Angeles,0,1,Offer E,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.85,29.85,0.0,0,,29.85,Joined,Others,Others,1
+7601-WFVZV,Male,35,No,Downieville,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,17.94,37.49,Joined,Others,Others,1
+7617-EYGLW,Male,62,No,Clearlake Oaks,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.45,19.45,0.0,0,46.59,66.04,Joined,Others,Others,1
+2740-TVLFN,Male,42,No,Manteca,0,1,Offer E,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.15,50.15,0.0,0,39.87,90.02,Joined,Others,Others,1
+2789-HQBOU,Male,60,No,Bakersfield,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,80.35,253.8,0.0,0,148.89,402.69,Joined,Others,Others,1
+2792-LSHWX,Female,49,No,Fremont,0,1,,Yes,No,Yes,Fiber Optic,Yes,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,83.4,83.4,0.0,0,43.06,126.46,Joined,Others,Others,1
+2792-VPPET,Male,28,No,San Gabriel,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.5,76.95,0.0,0,111.03,187.98,Joined,Others,Others,1
+2800-VEQXM,Female,48,No,Lebec,0,3,,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,74.75,238.1,,0,37.5,236.76,Joined,Others,Others,1
+2812-SFXMJ,Male,46,No,Hat Creek,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,7.66,27.71,Joined,Others,Others,1
+2832-SCUCO,Female,52,No,Kirkwood,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.9,57.4,0.0,0,53.8,111.2,Joined,Others,Others,1
+2853-CWQFQ,Male,20,No,Eureka,0,1,,Yes,No,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,Yes,Credit Card,59.55,59.55,0.0,0,41.39,100.94,Joined,Others,Others,1
+2862-PFNIK,Male,47,No,San Leandro,0,1,,No,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,24.7,24.7,0.0,0,,24.7,Joined,Others,Others,1
+2866-IKBTM,Female,57,No,Dana Point,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,40.63,60.18,Joined,Others,Others,1
+2880-FPNAE,Male,69,Yes,Van Nuys,1,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,74.2,140.1,0.0,0,14.58,154.68,Joined,Others,Others,1
+2897-DOVND,Male,31,No,Winterhaven,0,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,69.8,146.65,0.0,10,22.38,179.03,Joined,Others,Others,1
+2903-YYTBW,Male,48,Yes,Hemet,1,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,44.55,44.55,0.0,0,41.1,85.65,Joined,Others,Others,1
+2905-KFQUV,Female,61,Yes,Moss Beach,9,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.4,154.8,0.0,0,14.98,169.78,Joined,Others,Others,1
+2920-RNCEZ,Male,46,Yes,Lebec,10,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,69.95,69.95,0.0,0,11.45,81.4,Joined,Others,Others,1
+2967-MXRAV,Male,29,Yes,Los Angeles,9,1,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,18.8,18.8,0.0,0,43.57,62.37,Joined,Others,Others,1
+2969-QWUBZ,Female,53,No,Los Altos,0,2,,No,No,Yes,Cable,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,51.4,96.8,0.0,0,,96.8,Joined,Others,Others,1
+2984-AFWNC,Female,52,No,Rough And Ready,0,3,,Yes,No,Yes,Fiber Optic,No,Yes,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,95.4,293.15,0.0,0,51.03,344.18,Joined,Others,Others,1
+7636-XUHWW,Male,56,No,Firebaugh,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.9,33.7,0.0,0,7.64,41.34,Joined,Others,Others,1
+7698-YFGEZ,Male,55,No,Riverside,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,,0.0,0,25.99,45.99,Joined,Others,Others,1
+7721-DVEKZ,Female,42,No,Thousand Oaks,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,19.65,0.0,0,23.67,43.32,Joined,Others,Others,1
+7729-JTEEC,Male,33,Yes,Olympic Valley,2,2,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.5,90.05,0.0,0,61.74,151.79,Joined,Others,Others,1
+7754-IXRMC,Female,39,No,Atascadero,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.35,45.35,0.0,0,12.46,57.81,Joined,Others,Others,1
+7764-BDPEE,Male,50,No,Hayward,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.85,60.65,0.0,0,58.74,119.39,Joined,Others,Others,1
+7785-RDVIG,Female,53,Yes,Hemet,5,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.3,54.7,0.0,0,30.39,85.09,Joined,Others,Others,1
+7794-JASDG,Male,37,No,Winchester,0,1,Offer E,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.75,50.75,0.0,0,45.77,96.52,Joined,Others,Others,1
+7808-DVWEP,Male,51,Yes,Chico,3,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,49.65,0.0,0,93.18,142.83,Joined,Others,Others,1
+7814-LEEVE,Female,60,Yes,Grass Valley,7,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.3,20.3,0.0,0,6.64,26.94,Joined,Others,Others,1
+7823-JSOAG,Male,39,No,Sonoma,0,3,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.5,217.45,0.0,0,20.91,238.36,Joined,Others,Others,1
+7853-WNZSY,Male,58,No,El Nido,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.75,19.75,0.0,0,1.61,21.36,Joined,Others,Others,1
+7878-RTCZG,Female,55,No,Inglewood,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.9,19.9,0.0,0,2.38,22.28,Joined,Others,Others,1
+2988-PLAHS,Female,58,No,Sierraville,0,3,Offer E,Yes,No,Yes,Cable,No,No,Yes,No,Yes,Yes,Yes,No,One Year,Yes,Bank Withdrawal,69.95,220.45,0.0,30,88.53,338.98,Joined,Others,Others,1
+3007-FDPEA,Female,28,No,Fallbrook,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.7,39.85,0.0,0,27.78,67.63,Joined,Others,Others,1
+3030-ZKIWL,Male,23,No,Lake Isabella,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,18.15,38.2,Joined,Others,Others,1
+3039-MJSLN,Male,36,No,Cressey,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.2,50.6,0.0,0,55.29,105.89,Joined,Others,Others,1
+3043-TYBNO,Male,43,No,Kneeland,0,3,,Yes,No,Yes,DSL,No,No,No,Yes,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,60.65,196.9,0.0,0,67.47,264.37,Joined,Others,Others,1
+3050-GBUSH,Female,25,No,Burlingame,0,3,,No,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,34.8,113.95,0.0,0,,113.95,Joined,Others,Others,1
+3069-SSVSN,Female,50,No,Hilmar,0,1,,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Credit Card,25.85,25.85,0.0,0,,25.85,Joined,Others,Others,1
+3071-VBYPO,Male,38,Yes,Whittier,1,3,Offer E,Yes,No,Yes,Fiber Optic,Yes,Yes,No,No,Yes,No,No,Yes,Month-to-Month,No,Bank Withdrawal,89.85,248.4,0.0,0,99.9,348.3,Joined,Others,Others,1
+3082-VQXNH,Male,62,Yes,Hat Creek,1,3,Offer E,No,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,29.8,94.4,0.0,0,,94.4,Joined,Others,Others,1
+3090-LETTY,Male,54,No,San Diego,0,2,,Yes,Yes,Yes,DSL,Yes,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,60.95,134.6,0.0,0,29.76,164.36,Joined,Others,Others,1
+3090-QFUVD,Female,48,No,Reedley,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,4.09,24.39,Joined,Others,Others,1
+3130-ICDUP,Female,56,No,Hercules,0,2,,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,80.55,188.1,0.0,0,10.6,198.7,Joined,Others,Others,1
+3156-QLHBO,Male,58,No,San Jose,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.25,48.35,0.0,0,42.36,90.71,Joined,Others,Others,1
+3191-CSNMG,Female,57,Yes,Upland,5,3,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.7,239.45,0.0,0,71.16,310.61,Joined,Others,Others,1
+3195-TQDZX,Male,19,No,Elk Creek,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.25,61.45,0.0,0,4.71,66.16,Joined,Others,Others,1
+3234-VKACU,Male,21,No,Sunol,0,2,,Yes,No,Yes,DSL,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,132.4,0.0,0,47.04,179.44,Joined,Others,Others,1
+3247-MHJKM,Male,27,No,Upland,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.2,20.2,0.0,0,42.15,62.35,Joined,Others,Others,1
+7926-IJOOU,Male,50,No,San Francisco,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.3,19.3,0.0,0,16.36,35.66,Joined,Others,Others,1
+7952-OBOYL,Male,24,No,Upland,0,3,,Yes,No,Yes,Fiber Optic,No,No,Yes,Yes,Yes,No,Yes,Yes,Month-to-Month,Yes,Credit Card,89.85,244.45,0.0,0,75.3,319.75,Joined,Others,Others,1
+8006-PYCSW,Female,60,No,Los Angeles,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.1,39.8,0.0,0,,110.8,Joined,Others,Others,1
+8040-MNRTF,Female,47,No,Taft,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,71.1,71.1,0.0,0,37.51,108.61,Joined,Others,Others,1
+8048-DSDFQ,Male,63,No,Midway City,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.2,20.2,0.0,0,13.08,33.28,Joined,Others,Others,1
+8064-RAVOH,Male,44,No,Oxnard,0,1,Offer E,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,49.85,49.85,0.0,0,42.55,92.4,Joined,Others,Others,1
+8150-QUDFX,Male,27,No,Rohnert Park,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,51.6,0.0,0,54.94,106.54,Joined,Others,Others,1
+8167-GJLRN,Male,19,No,La Crescenta,0,3,,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,30.4,82.15,0.0,0,,82.15,Joined,Others,Others,1
+8180-AKMJV,Female,27,No,Litchfield,0,1,Offer E,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.55,44.55,0.0,0,23.04,67.59,Joined,Others,Others,1
+3278-FSIXX,Female,34,No,Blue Lake,0,2,Offer E,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,45.25,74.2,0.0,0,,153.2,Joined,Others,Others,1
+3295-YVUSR,Male,73,No,Glendale,0,2,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,72.6,154.3,0.0,0,30.38,184.68,Joined,Others,Others,1
+3308-MHOOC,Male,37,No,Scotia,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.2,19.2,0.0,0,17.89,37.09,Joined,Others,Others,1
+3318-NMQXL,Male,58,No,El Monte,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,,266.8,0.0,0,46.8,313.6,Joined,Others,Others,1
+3370-HXOPH,Female,50,No,Mountain View,0,3,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,76.1,257.6,0.0,0,43.05,300.65,Joined,Others,Others,1
+3373-YZZYM,Male,57,Yes,Los Gatos,10,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.2,19.2,0.0,0,32.78,51.98,Joined,Others,Others,1
+3407-QGWLG,Male,23,No,Roseville,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.05,75.45,0.0,0,113.55,189.0,Joined,Others,Others,1
+3411-WLRSQ,Female,80,Yes,Los Angeles,3,3,Offer E,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,74.6,239.05,0.0,30,118.53,387.58,Joined,Others,Others,1
+3413-BMNZE,Male,71,No,Los Angeles,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,One Year,No,Bank Withdrawal,45.25,45.25,0.0,0,11.89,57.14,Joined,Others,Others,1
+3420-YJLQT,Female,45,No,Alturas,0,2,Offer E,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,79.55,151.75,0.0,0,51.12,202.87,Joined,Others,Others,1
+3422-GALYP,Male,20,No,Phillipsville,0,2,Offer E,Yes,Yes,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.45,145.15,0.0,0,57.22,202.37,Joined,Others,Others,1
+3439-GVUSX,Male,45,No,Lookout,0,1,,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,24.4,24.4,0.0,0,,24.4,Joined,Others,Others,1
+3489-HHPFY,Female,40,Yes,Amboy,9,2,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,84.05,134.05,0.0,0,44.46,178.51,Joined,Others,Others,1
+3518-PZXZQ,Female,27,Yes,Castroville,8,1,,Yes,No,Yes,DSL,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,55.3,55.3,0.0,0,36.69,91.99,Joined,Others,Others,1
+3566-HJGPK,Male,50,No,Woodland Hills,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,45.55,45.55,0.0,0,16.34,61.89,Joined,Others,Others,1
+8203-XJZRC,Male,44,No,Chula Vista,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.25,20.25,0.0,0,40.46,60.71,Joined,Others,Others,1
+8262-COGGB,Male,53,No,Visalia,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.45,20.45,0.0,0,11.61,32.06,Joined,Others,Others,1
+8267-KFGYD,Male,53,No,Alhambra,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,21.05,21.05,0.0,0,10.14,31.19,Joined,Others,Others,1
+8286-AFUYI,Male,33,No,Glendale,0,1,Offer E,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,47.95,47.95,0.0,0,46.23,94.18,Joined,Others,Others,1
+8309-IEYJD,Female,73,No,Indian Wells,0,1,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Credit Card,70.6,70.6,0.0,30,32.61,133.21,Joined,Others,Others,1
+8356-WUAOJ,Female,25,Yes,Glendale,7,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,,0.0,10,40.63,95.63,Joined,Others,Others,1
+8393-JMVMB,Male,34,No,Thousand Oaks,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.45,19.45,0.0,0,29.15,48.6,Joined,Others,Others,1
+8445-DNBAE,Male,24,No,Sacramento,0,1,Offer E,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,50.05,50.05,0.0,0,43.05,93.1,Joined,Others,Others,1
+8543-MSDMF,Male,36,No,Coachella,0,3,Offer E,Yes,No,Yes,Cable,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,77.4,206.15,0.0,0,133.26,339.41,Joined,Others,Others,1
+3577-AMVUX,Male,59,No,Big Bear City,0,1,,Yes,No,Yes,Cable,No,No,Yes,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,55.05,55.05,0.0,0,14.65,69.7,Joined,Others,Others,1
+3590-TCXTB,Male,50,No,Cerritos,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,20.35,0.0,0,31.97,52.32,Joined,Others,Others,1
+3594-IVHJZ,Female,31,No,French Gulch,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,20.45,42.45,0.0,0,94.38,136.83,Joined,Others,Others,1
+3594-KADLU,Male,33,Yes,Witter Springs,3,3,Offer E,No,No,Yes,Cable,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Credit Card,35.1,101.1,0.0,0,,101.1,Joined,Others,Others,1
+3620-MWJNE,Male,32,No,Homeland,0,2,,Yes,No,Yes,DSL,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,54.45,87.3,0.0,0,39.74,127.04,Joined,Others,Others,1
+3645-DEYGF,Male,29,No,Northridge,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.75,20.75,0.0,0,7.57,28.32,Joined,Others,Others,1
+3679-XASPY,Female,38,Yes,Inglewood,1,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.45,19.45,0.0,0,16.44,35.89,Joined,Others,Others,1
+3716-UVSPD,Male,54,No,San Juan Capistrano,0,1,,Yes,No,Yes,DSL,No,No,No,Yes,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,,49.3,0.0,10,14.97,74.27,Joined,Others,Others,1
+3717-OEAUQ,Male,37,No,Ione,0,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,129.2,0.0,10,5.44,144.64,Joined,Others,Others,1
+3717-OFRTN,Male,48,No,Dublin,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,5.32,25.07,Joined,Others,Others,1
+3727-JEZTU,Female,29,No,Bakersfield,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.4,20.4,0.0,0,45.91,66.31,Joined,Others,Others,1
+3744-ZBHON,Female,64,No,Highland,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.2,65.95,0.0,0,95.43,161.38,Joined,Others,Others,1
+3785-NRHYR,Male,40,No,Bridgeport,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.65,19.65,0.0,0,16.91,36.56,Joined,Others,Others,1
+3798-EPWRR,Female,74,No,Beverly Hills,0,2,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,43.95,85.1,0.0,0,38.18,123.28,Joined,Others,Others,1
+3806-YAZOV,Female,44,No,Lagunitas,0,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,18.8,,0.0,0,19.83,75.83,Joined,Others,Others,1
+3807-XHCJH,Female,21,Yes,Fish Camp,4,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,,,0.0,0,6.86,26.86,Joined,Others,Others,1
+3841-CONLJ,Female,33,Yes,Morro Bay,9,1,,No,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,,,0.0,0,,35.0,Joined,Others,Others,1
+3845-FXCYS,Male,55,No,Long Barn,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,19.65,31.2,0.0,0,15.6,46.8,Joined,Others,Others,1
+8559-WNQZS,Male,37,No,Atwater,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Two Year,No,Credit Card,20.45,20.45,0.0,0,43.82,64.27,Joined,Others,Others,1
+8562-GHPPI,Female,50,No,San Leandro,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.8,19.8,0.0,0,11.96,31.76,Joined,Others,Others,1
+8566-YPRGL,Female,57,No,Long Beach,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.5,19.5,0.0,0,33.02,52.52,Joined,Others,Others,1
+8605-ITULD,Female,21,No,Crescent Mills,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.55,19.55,0.0,0,5.1,24.65,Joined,Others,Others,1
+8610-ZIKJJ,Female,57,Yes,Tujunga,2,2,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.3,31.9,0.0,0,70.84,102.74,Joined,Others,Others,1
+8617-ENBDS,Male,29,No,Helendale,0,3,,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,No,No,No,Month-to-Month,Yes,Credit Card,73.6,232.5,0.0,10,82.02,324.52,Joined,Others,Others,1
+8620-RJPZN,Female,27,No,Los Altos,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,20.7,20.7,0.0,0,45.86,66.56,Joined,Others,Others,1
+8654-DHAOW,Female,47,No,Burson,0,2,Offer E,Yes,Yes,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Credit Card,54.15,101.65,0.0,10,42.6,154.25,Joined,Others,Others,1
+8660-BUETV,Female,37,No,Riverside,0,3,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,44.75,148.05,0.0,10,104.67,262.72,Joined,Others,Others,1
+8687-BAFGU,Male,34,No,Clovis,0,1,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,Yes,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,,,0.0,0,23.7,97.7,Joined,Others,Others,1
+8695-WDYEA,Male,32,No,Chico,0,1,,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.25,51.25,0.0,0,39.3,90.55,Joined,Others,Others,1
+8705-WZCYL,Male,40,No,Encinitas,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.8,44.8,0.0,0,27.46,72.26,Joined,Others,Others,1
+8710-YGLWG,Male,44,No,North Hills,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,44.9,44.9,0.0,0,15.76,60.66,Joined,Others,Others,1
+8713-IGZSO,Male,50,No,Salinas,0,2,Offer E,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.85,,0.0,0,80.5,142.5,Joined,Others,Others,1
+8720-RQSBJ,Male,69,No,Armona,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,,,0.0,0,28.67,72.67,Joined,Others,Others,1
+8739-QOTTN,Female,35,Yes,Avalon,3,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,41.85,0.0,0,10.84,52.69,Joined,Others,Others,1
+8749-CLJXC,Male,56,No,Ahwahnee,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,13.51,33.56,Joined,Others,Others,1
+8757-TFHHJ,Male,55,No,San Jose,0,1,,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,49.8,49.8,0.0,0,38.21,88.01,Joined,Others,Others,1
+8775-ERLNB,Male,76,Yes,Indio,7,1,,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,74.3,74.3,0.0,0,17.84,92.14,Joined,Others,Others,1
+8805-JNRAZ,Female,44,No,Huntington Beach,0,2,Offer E,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,49.2,103.7,0.0,0,58.56,162.26,Joined,Others,Others,1
+3878-AVSOQ,Female,68,No,La Jolla,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Two Year,Yes,Bank Withdrawal,71.25,71.25,0.0,10,17.6,98.85,Joined,Others,Others,1
+3916-NRPAP,Male,21,No,Escalon,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,85.7,256.75,0.0,0,89.52,346.27,Joined,Others,Others,1
+3930-ZGWVE,Male,45,No,Stanton,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,19.75,0.0,0,15.77,35.52,Joined,Others,Others,1
+3936-QQFLL,Male,58,No,Calimesa,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.75,39.3,0.0,0,3.94,43.24,Joined,Others,Others,1
+3961-SXAXY,Male,49,No,Thousand Oaks,0,1,Offer E,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,44.05,44.05,0.0,0,30.73,74.78,Joined,Others,Others,1
+3976-NLDEZ,Male,55,No,Mira Loma,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.6,20.6,0.0,0,1.48,22.08,Joined,Others,Others,1
+3995-WFCSM,Female,28,No,San Jacinto,0,2,,Yes,No,Yes,DSL,No,No,Yes,No,No,Yes,Yes,Yes,Month-to-Month,No,Bank Withdrawal,60.85,111.4,0.0,0,30.5,141.9,Joined,Others,Others,1
+4013-GUXND,Male,37,No,Lancaster,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.8,20.8,0.0,0,48.14,68.94,Joined,Others,Others,1
+4026-SKKHW,Male,35,No,Dillon Beach,0,3,,Yes,No,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.25,152.3,0.0,0,84.57,236.87,Joined,Others,Others,1
+4029-HPFVY,Male,35,No,San Francisco,0,3,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.3,220.4,0.0,0,29.22,249.62,Joined,Others,Others,1
+4061-UKJWL,Male,35,No,San Francisco,0,3,,Yes,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.45,141.7,0.0,0,61.11,202.81,Joined,Others,Others,1
+4065-JJAVA,Female,56,No,Oakland,0,1,,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,49.5,49.5,0.0,30,16.99,96.49,Joined,Others,Others,1
+4090-KPJIP,Female,42,No,Anaheim,0,3,Offer E,Yes,Yes,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.95,212.4,,0,4.92,189.72,Joined,Others,Others,1
+4137-BTIKL,Male,55,No,Daggett,0,2,Offer E,Yes,Yes,Yes,Fiber Optic,Yes,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,90.75,174.75,0.0,0,54.34,229.09,Joined,Others,Others,1
+8885-QSQBX,Female,45,No,Forest Falls,0,1,,Yes,No,Yes,DSL,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,49.55,49.55,0.0,0,10.83,60.38,Joined,Others,Others,1
+8896-BQTTI,Male,41,No,Cool,0,1,Offer E,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,,,0.0,0,3.39,28.39,Joined,Others,Others,1
+8903-XEBGX,Male,22,No,Lancaster,0,2,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,55.3,108.65,0.0,0,87.86,196.51,Joined,Others,Others,1
+8909-BOLNL,Male,40,No,San Francisco,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,21.2,52.05,0.0,0,36.15,88.2,Joined,Others,Others,1
+8950-MTZNV,Male,61,No,Carson,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Mailed Check,44.95,44.95,0.0,0,13.63,58.58,Joined,Others,Others,1
+8963-JLGJT,Male,20,No,Santa Barbara,0,3,Offer E,Yes,No,Yes,Cable,Yes,No,Yes,No,No,No,Yes,Yes,Month-to-Month,No,Credit Card,55.9,157.55,0.0,0,99.84,257.39,Joined,Others,Others,1
+8974-OVACP,Female,40,No,Yermo,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,20.15,20.15,0.0,0,27.59,47.74,Joined,Others,Others,1
+8985-OOPOS,Female,54,No,Occidental,0,1,,Yes,No,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Yes,Yes,One Year,No,Credit Card,74.1,74.1,0.0,0,36.05,110.15,Joined,Others,Others,1
+8992-CEUEN,Female,59,No,Arnold,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,18.85,18.85,0.0,0,7.8,26.65,Joined,Others,Others,1
+9039-ZVJDC,Male,49,No,Pauma Valley,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.1,53.05,0.0,0,48.96,102.01,Joined,Others,Others,1
+9101-NTIXF,Male,32,No,Lompoc,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.4,50.6,0.0,0,30.32,80.92,Joined,Others,Others,1
+9103-CXVOK,Male,31,Yes,Grover Beach,8,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.75,19.75,0.0,0,30.38,50.13,Joined,Others,Others,1
+9108-EJFJP,Female,21,Yes,Jacumba,6,1,Offer E,Yes,No,Yes,DSL,Yes,Yes,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Credit Card,53.55,53.55,0.0,0,16.06,69.61,Joined,Others,Others,1
+9122-UMROB,Male,29,No,Los Angeles,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.3,20.3,0.0,0,10.84,31.14,Joined,Others,Others,1
+4146-SVFUD,Male,45,No,Modesto,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Mailed Check,44.6,44.6,0.0,0,45.28,89.88,Joined,Others,Others,1
+4195-NZGTA,Female,40,No,Valencia,0,1,,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.25,25.25,0.0,0,,25.25,Joined,Others,Others,1
+4223-WOZCM,Male,71,No,Carmel,0,2,Offer E,Yes,No,Yes,DSL,No,No,Yes,No,No,No,No,Yes,Two Year,No,Mailed Check,49.95,107.1,0.0,0,75.94,183.04,Joined,Others,Others,1
+4232-JGKIY,Male,22,No,Los Angeles,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.2,19.2,0.0,0,26.37,45.57,Joined,Others,Others,1
+4234-XTNEA,Male,25,No,Irvine,0,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,79.95,174.45,0.0,0,75.4,249.85,Joined,Others,Others,1
+4236-UJPWO,Female,34,No,Alviso,0,2,Offer E,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,24.5,46.4,0.0,0,,46.4,Joined,Others,Others,1
+4237-CLSMM,Male,45,Yes,Highland,10,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Mailed Check,,,0.0,0,68.76,106.76,Joined,Others,Others,1
+4273-MBHYA,Female,38,No,Desert Hot Springs,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Bank Withdrawal,89.35,89.35,0.0,0,5.36,94.71,Joined,Others,Others,1
+4291-HPAXL,Male,63,No,Galt,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.85,19.85,0.0,0,29.1,48.95,Joined,Others,Others,1
+4367-NHWMM,Female,37,No,Corte Madera,0,1,,No,No,Yes,Cable,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,24.9,24.9,0.0,0,,24.9,Joined,Others,Others,1
+4373-VVHQL,Male,37,No,Arroyo Grande,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,44.75,44.75,0.0,10,18.57,73.32,Joined,Others,Others,1
+4393-OBCRR,Female,60,No,Bella Vista,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Mailed Check,20.25,71.2,0.0,0,4.41,75.61,Joined,Others,Others,1
+4450-DLLMH,Male,53,No,Avalon,0,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,71.3,157.75,0.0,0,13.48,171.23,Joined,Others,Others,1
+9137-NOQKA,Male,80,No,South San Francisco,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Two Year,No,Bank Withdrawal,19.2,37.2,0.0,0,14.06,51.26,Joined,Others,Others,1
+9214-EKVXR,Female,51,No,San Francisco,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,,,0.0,0,26.15,70.15,Joined,Others,Others,1
+9244-ZVAPM,Male,36,No,Garden Grove,0,1,,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,45.6,45.6,0.0,0,37.44,83.04,Joined,Others,Others,1
+9261-WDCAF,Male,64,No,Bonita,0,3,,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Mailed Check,,189.1,0.0,0,100.59,289.69,Joined,Others,Others,1
+9277-JOOMO,Female,27,No,Garberville,0,3,,Yes,Yes,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,24.6,86.35,0.0,0,78.99,165.34,Joined,Others,Others,1
+9374-YOLBJ,Female,29,Yes,Upper Lake,9,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.25,19.25,0.0,0,25.1,44.35,Joined,Others,Others,1
+9398-MMQTO,Male,41,No,Borrego Springs,0,3,,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,No,Month-to-Month,No,Credit Card,74.45,221.1,0.0,70,104.4,395.5,Joined,Others,Others,1
+9426-SXNHE,Female,23,No,Orleans,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,18.75,53.15,0.0,0,9.84,62.99,Joined,Others,Others,1
+9441-QHEVC,Male,61,No,San Diego,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,19.1,19.1,0.0,0,44.22,63.32,Joined,Others,Others,1
+4482-EWFMI,Female,54,No,Arcadia,0,2,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,69.7,135.2,0.0,0,31.34,166.54,Joined,Others,Others,1
+4537-DKTAL,Female,26,No,Darwin,0,2,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,45.55,84.4,0.0,10,83.8,178.2,Joined,Others,Others,1
+4634-JLRJT,Female,30,No,Ontario,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.35,20.35,0.0,0,29.86,50.21,Joined,Others,Others,1
+4661-NJEUX,Male,42,No,Portola Valley,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,20.05,20.05,0.0,0,3.23,23.28,Joined,Others,Others,1
+4693-VWVBO,Female,60,No,Valley Springs,0,3,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Bank Withdrawal,19.55,61.05,0.0,0,122.94,183.99,Joined,Others,Others,1
+4697-LUPSU,Male,22,Yes,Grover Beach,6,2,,Yes,No,No,,No,No,No,No,No,No,No,No,One Year,No,Credit Card,20.2,34.75,0.0,0,76.82,111.57,Joined,Others,Others,1
+4706-DGAHW,Male,73,No,California Hot Springs,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Two Year,No,Bank Withdrawal,45.2,45.2,0.0,0,49.34,94.54,Joined,Others,Others,1
+4727-MCYZG,Male,23,No,Union City,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,No,Mailed Check,55.55,55.55,0.0,30,33.32,118.87,Joined,Others,Others,1
+9505-SQFSW,Female,59,Yes,Tehachapi,6,3,Offer E,No,No,Yes,Cable,No,Yes,No,No,No,Yes,Yes,Yes,Month-to-Month,No,Credit Card,40.3,92.5,0.0,0,,92.5,Joined,Others,Others,1
+9537-VHDTA,Female,42,No,Corona,0,1,,Yes,No,Yes,Cable,Yes,No,No,No,No,No,No,Yes,Month-to-Month,No,Credit Card,51.2,51.2,0.0,0,2.98,54.18,Joined,Others,Others,1
+9572-WUKSB,Male,22,Yes,South Pasadena,5,3,,No,No,Yes,DSL,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,29.9,92.25,0.0,0,,92.25,Joined,Others,Others,1
+9588-OZDMQ,Female,38,Yes,Tollhouse,8,2,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,89.75,0.0,0,,120.75,Joined,Others,Others,1
+9603-OAIHC,Male,72,No,Palmdale,0,1,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,70.05,70.05,0.0,0,2.97,73.02,Joined,Others,Others,1
+9605-WGJVW,Female,69,No,Stockton,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.2,70.2,0.0,0,22.34,92.54,Joined,Others,Others,1
+9617-INGJY,Male,31,No,Manhattan Beach,0,1,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,70.6,70.6,0.0,0,36.12,106.72,Joined,Others,Others,1
+9629-NHXFW,Female,58,Yes,Downey,6,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,19.4,19.4,0.0,0,48.79,68.19,Joined,Others,Others,1
+9631-XEYKE,Male,28,No,Rialto,0,3,,Yes,Yes,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,50.4,137.25,0.0,0,89.22,226.47,Joined,Others,Others,1
+9633-XQABV,Female,33,No,Los Banos,0,3,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.25,229.7,0.0,0,76.2,305.9,Joined,Others,Others,1
+9638-JIQYA,Male,22,No,Ballico,0,2,,No,No,Yes,DSL,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,24.9,49.7,0.0,10,,59.7,Joined,Others,Others,1
+9643-AVVWI,Female,49,Yes,Los Angeles,2,3,,Yes,No,Yes,Fiber Optic,No,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,,241.3,0.0,0,57.54,298.84,Joined,Others,Others,1
+9667-TKTVZ,Female,38,No,Los Osos,0,2,,Yes,Yes,Yes,Cable,No,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Credit Card,54.35,117.05,0.0,0,51.62,168.67,Joined,Others,Others,1
+9700-ZCLOT,Male,46,No,Claremont,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,,32.7,0.0,0,34.06,66.76,Joined,Others,Others,1
+9708-KFDBY,Male,29,No,Oceanside,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.55,20.55,0.0,0,7.32,27.87,Joined,Others,Others,1
+9717-QEBGU,Male,51,No,Leggett,0,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,70.3,,0.0,0,3.14,147.14,Joined,Others,Others,1
+9743-DQKQW,Male,28,No,Escalon,0,3,Offer E,No,No,Yes,DSL,No,No,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,25.1,79.8,0.0,0,,79.8,Joined,Others,Others,1
+4741-WWJQZ,Female,49,Yes,Forestville,0,2,Offer E,Yes,No,Yes,Fiber Optic,Yes,No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,80.15,194.55,0.0,0,53.16,247.71,Joined,Others,Others,1
+4770-UEZOX,Male,19,No,Fallbrook,0,2,Offer E,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,74.75,144.8,0.0,0,87.12,231.92,Joined,Others,Others,1
+4781-ZXYGU,Male,25,Yes,Sausalito,7,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Bank Withdrawal,20.15,20.15,0.0,0,18.63,38.78,Joined,Others,Others,1
+4912-PIGUY,Female,44,No,Perris,0,1,Offer E,Yes,Yes,Yes,Fiber Optic,No,No,No,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,84.6,84.6,0.0,0,7.34,91.94,Joined,Others,Others,1
+4927-WWOOZ,Male,39,Yes,Pacific Grove,0,2,,Yes,Yes,Yes,Fiber Optic,No,No,Yes,No,Yes,No,No,No,Month-to-Month,Yes,Bank Withdrawal,91.45,171.45,0.0,10,98.82,280.27,Joined,Others,Others,1
+4929-XIHVW,Male,79,Yes,Los Angeles,10,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,Yes,No,Yes,Yes,No,No,One Year,Yes,Credit Card,95.5,181.65,0.0,10,66.2,257.85,Joined,Others,Others,1
+4957-TREIR,Male,37,No,Stratford,0,3,,Yes,No,Yes,DSL,Yes,No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Credit Card,64.4,195.65,0.0,0,114.15,309.8,Joined,Others,Others,1
+4983-CCWMC,Male,43,No,Creston,0,3,,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Credit Card,69.6,207.4,0.0,20,86.91,314.31,Joined,Others,Others,1
+4986-MXSFP,Female,40,No,San Leandro,0,2,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,Yes,Mailed Check,,40.9,0.0,0,86.54,127.44,Joined,Others,Others,1
+9752-ZNQUT,Female,51,No,Visalia,0,1,Offer E,Yes,No,Yes,Cable,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Bank Withdrawal,48.6,48.6,0.0,0,7.99,56.59,Joined,Others,Others,1
+9753-OYLBX,Female,54,No,San Diego,0,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.5,20.5,0.0,0,8.56,29.06,Joined,Others,Others,1
+9770-LXDBK,Female,42,No,Los Angeles,0,3,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.4,63.15,0.0,0,44.37,107.52,Joined,Others,Others,1
+9799-CAYJJ,Female,79,Yes,West Hills,1,2,Offer E,Yes,No,Yes,Fiber Optic,No,No,No,No,No,No,No,Yes,Two Year,Yes,Bank Withdrawal,69.3,153.8,0.0,0,65.24,219.04,Joined,Others,Others,1
+9818-XQCUV,Female,52,No,Dunsmuir,0,2,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.35,45.3,0.0,0,51.84,97.14,Joined,Others,Others,1
+9822-OAOVB,Female,63,No,Santa Maria,0,1,Offer E,Yes,No,Yes,DSL,No,No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Bank Withdrawal,55.45,55.45,0.0,10,6.43,71.88,Joined,Others,Others,1
+9840-EFJQB,Female,43,No,Sylmar,0,1,,Yes,No,Yes,Fiber Optic,No,Yes,No,No,No,No,No,Yes,Month-to-Month,No,Bank Withdrawal,74.35,74.35,0.0,0,24.41,98.76,Joined,Others,Others,1
+9895-VFOXH,Female,19,No,Scotia,0,1,,No,No,Yes,DSL,No,No,No,No,No,No,Yes,No,Month-to-Month,No,Credit Card,24.4,24.4,0.0,10,,34.4,Joined,Others,Others,1
+9962-BFPDU,Female,61,Yes,Kenwood,3,1,,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,20.05,20.05,0.0,0,16.02,36.07,Joined,Others,Others,1
+9975-SKRNR,Male,24,No,Sierraville,0,1,Offer E,Yes,No,No,,No,No,No,No,No,No,No,No,Month-to-Month,No,Credit Card,18.9,18.9,0.0,0,49.51,68.41,Joined,Others,Others,1
+9992-UJOEL,Male,22,No,Elk,0,2,Offer E,Yes,No,Yes,DSL,No,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Credit Card,50.3,92.75,0.0,0,37.24,129.99,Joined,Others,Others,1
